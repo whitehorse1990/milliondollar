@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-06-10 03:28:17
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.22
+WORDPRESS:	4.2.2
+PHP INFO:	5.5.25 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (256M default) 
+MEMORY STACK: 18.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:33 | filtered:0 | create:33 
+FILTERED: [] 
+SQL CREATED: 20150610_milliondolarblog_5577ae92900059397150610032714_database.sql 
+SQL FILE SIZE: 609.06KB 
+SQL FILE TIME: 2015-06-10 03:28:17 
+SQL RUNTIME: 0.28 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/donathem/public_html/vskytech/devs/p22_milliondolar/blog 
+ARCHIVE FILE: 20150610_milliondolarblog_5577ae92900059397150610032714_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	23.15MB 
+STATS:	Dirs 163 | Files 1,457 | Links 0 
+SQL ADDED: 20150610_milliondolarblog_5577ae92900059397150610032714_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1620
+    [filename] => /home/donathem/public_html/vskytech/devs/p22_milliondolar/blog/wp-snapshots/tmp/20150610_milliondolarblog_5577ae92900059397150610032714_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 9.06MB 
+ARCHIVE RUNTIME: 12.30 sec. 
+MEMORY STACK: 19.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home/donathem/public_html/vskytech/devs/p22_milliondolar/blog/wp-snapshots/tmp/20150610_milliondolarblog_5577ae92900059397150610032714_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 609.06KB 
+Installer File: 318.05KB 
+Archive File: 9.06MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 17.74 sec.
+PEAK PHP MEMORY USED: 21.75MB
+DONE PROCESSING => 20150610_milliondolarblog 2015-06-10 03:28:35
+ 
